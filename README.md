@@ -1,3 +1,11 @@
+# 📌 Note from tent-rs team
+
+This project is a part of `tent-rs`. We will be providing minimal maintenance for this crate. For feature requests and bug fixes, please submit them to the original project. For more details, please refer to [our README](https://github.com/tent-rs/.github).
+
+The following is original README:
+
+---
+
 Apache Thrift
 =============
 
